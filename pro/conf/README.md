@@ -1,3 +1,0 @@
-
-### nginx configuration directory
-

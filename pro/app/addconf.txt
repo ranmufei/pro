@@ -1,3 +1,0 @@
-upstream app8 {
-	server app8.App;
-    }
